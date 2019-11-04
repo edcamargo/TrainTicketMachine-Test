@@ -1,0 +1,17 @@
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.csprojAssemblyReference.cache
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.csproj.CoreCompileInputs.cache
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.AssemblyInfoInputs.cache
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.AssemblyInfo.cs
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.XUnitTest.deps.json
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.XUnitTest.runtimeconfig.json
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.XUnitTest.runtimeconfig.dev.json
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.XUnitTest.dll
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.Business.dll
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.Business.pdb
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.csproj.CopyComplete
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\bin\Debug\netcoreapp2.0\Stations.XUnitTest.pdb
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.dll
+E:\Estudos\Train-Ticket-Machine\test\Train.XUnitTest\obj\Debug\netcoreapp2.0\Stations.XUnitTest.pdb
